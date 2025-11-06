@@ -22,9 +22,18 @@
 
 ### 🤝 Connect with me  
 <p align="center">
-  <a href="https://www.facebook.com/nam.huynh.224968"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nam%20Huynh-blue?style=flat-square&logo=facebook" /></a>
-  <a href="https://www.linkedin.com/in/jore-nam-943a02236/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jore%20Nam-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:namhuynhfree@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-namhuynhfree@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://namjore04.github.io/-Small-Project-Portfolio/">
+    <img alt="Website" src="https://img.shields.io/badge/Site-NamJore%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nam.huynh.224968">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nam%20Huynh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jore-nam-943a02236/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jore%20Nam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:namhuynhfree@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-namhuynhfree@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ⭐ From [NamJore04](https://github.com/NamJore04)
