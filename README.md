@@ -34,10 +34,6 @@
 | 📱 **E-commerce Mobile App** | Cross-platform Flutter application | Dart, Flutter, Firebase |
 | 📝 **OCR Project** | Optical Character Recognition system | Python, OpenCV, Tesseract |
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NamJore04&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamJore04&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ### 🏆 Achievements
 - 🎖️ **Merit Scholarship** - TDTU (2023, 2024)
