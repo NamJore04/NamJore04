@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi there! I'm Huynh Hoai Nam</h2>
 
 ### 👨‍💻 About me  
-- 🎓 I am a 4th year Computer Science student at **Ton Duc Thang University** (GPA: 8.1/10 - Distinction)
+- 🎓 I am a 4th year Computer Science student at **Ton Duc Thang University**
 - 💡 I am passionate about **Full-stack Development**, **AI/ML**, and building scalable systems
 - 🚀 Currently exploring: Deep Learning, Computer Vision, and AI-powered applications
 - 🎯 **Goal:** Become a Full-stack Engineer integrating AI using MCP, Agentic AI, A2A technologies
@@ -40,7 +40,7 @@
 </p>
 
 ### 🏆 Achievements
-- 🎖️ **Merit Scholarship (Distinction)** - TDTU (2023, 2024)
+- 🎖️ **Merit Scholarship** - TDTU (2023, 2024)
 - 📜 **APTIS English Certificate** - British Council
 - 📜 **Responsive Web Design** - freeCodeCamp
 
