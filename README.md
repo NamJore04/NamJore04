@@ -48,7 +48,7 @@
   <a href="https://www.facebook.com/nam.huynh.224968">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nam%20Huynh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jore-nam-943a02236/">
+  <a href="https://www.linkedin.com/in/namjore04/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jore%20Nam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:huynhhoainam.work@gmail.com">
