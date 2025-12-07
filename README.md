@@ -42,7 +42,7 @@
 
 ### 🤝 Connect with me  
 <p align="center">
-  <a href="https://namjore04.github.io/-Small-Project-Portfolio/">
+  <a href="https://namhuynh-portfolio.vercel.app/">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-NamJore-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/nam.huynh.224968">
